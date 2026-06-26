@@ -11,4 +11,10 @@
 - Node.js
 - Express.js
 - CORS Package
-- Postman (API Testing)
+- Postman (API Testing
+
+##  Key Learnings
+- CORS prevents unauthorized cross-origin requests
+- Always use try/catch for error handling
+- Never connect React directly to MongoDB - always use API layer
+- Proper HTTP status codes make debugging easier
